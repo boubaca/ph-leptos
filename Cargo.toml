@@ -2,10 +2,10 @@
 # Edit xtask/src/update.rs to maintain this file
 
 [package]
-name = "phosphor-leptos"
-version = "0.7.0"
+name = "ph-leptos"
+version = "0.7.2"
 description = "phosphor icons for leptos"
-authors = ["Søren H. Hansen"]
+authors = ["Boubaar Barry"]
 readme = "README.md"
 repository = "https://github.com/SorenHolstHansen/phosphor-leptos"
 keywords = ["icons", "leptos", "phosphor"]
@@ -16,7 +16,7 @@ exclude = ["/core"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-leptos = "0.7"
+leptos = "0.8.0-alpha"
 
 [workspace]
 members = ["xtask"]
