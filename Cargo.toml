@@ -5,7 +5,7 @@
 name = "ph-leptos"
 version = "0.7.2"
 description = "phosphor icons for leptos"
-authors = ["Boubaar Barry"]
+authors = ["Boubaar Barry meriambb1@gmail.com"]
 readme = "README.md"
 repository = "https://github.com/boubaca/ph-leptos"
 keywords = ["icons", "leptos", "phosphor"]
